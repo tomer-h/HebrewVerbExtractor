@@ -3,12 +3,7 @@ import argparse
 import subprocess
 import xml.etree.ElementTree as ET
 
-#Currently static, change to cmd arguments as needed
-#INPUT_FILE = 'test_input.csv'
-#MORPH_PATH = "F:\Users\Tomer\Downloads\\tagger\morphAnalyzer.jar"
-#ANALYSIS_XML = 'analyze.xml'
-#OUTPUT_XML = 'output.xml'
-#OUTPUT_CSV = 'output.csv'
+
 EMPTY = 'empty_box'
 
 
